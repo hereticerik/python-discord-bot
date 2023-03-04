@@ -16,11 +16,10 @@ A very simple discord bot written in python 3.10
 `python my_bot.py`<br><br>
 
 Your bot should now be online and ready to respond to commands in any Discord servers it has been invited to! You can test it by sending a message starting with the command prefix (! in this case) followed by one of the command names (e.g., !hello, !ping, !weather).
-
 <br><br>
 ## Notes / Features / Commands
 <br>
-Custom Commands Notes<br>
+Custom Commands Notes<br><br>
 
 This new command is named `load` and takes a single argument: the name of a text file containing a list of custom commands, one per line. When it receives a `load` command, the bot will read the file and create new commands for each line that isn't already registered. Each new command will simply send a message back to the user with the contents of the line.<br>
 
