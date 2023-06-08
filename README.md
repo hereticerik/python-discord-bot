@@ -48,3 +48,7 @@ To use this feature, simply send a message to the bot starting with the command 
 !weather Nashville, TN<br>
 
 The bot will then make a request to the wttr.in API for the weather in San Francisco and respond with a message indicating the weather conditions. Note that the location argument can be any string that wttr.in understands as a location (e.g., a city name, a zip code, etc.). You can find more information on the wttr.in API documentation page: https://github.com/chubin/wttr.in#one-liner-weather
+
+
+
+**This Discord Bot was made for Educational Purposes as an Example**
